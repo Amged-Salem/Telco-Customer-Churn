@@ -76,7 +76,7 @@ The models are organized into three categories based on their purpose: **Cluster
 ## How to Use
 
 1. **Requirements**: Ensure installation of libraries like `pandas`, `scikit-learn`, `imblearn`, `seaborn`, `matplotlib`, `plotly`, and `xgboost`.
-2. **Running the Notebooks**: Load the dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) and execute each cell to reproduce results.
+2. **Running the Notebooks**: Load the dataset (`Telco-Customer-Churn.csv`) and execute each cell to reproduce results.
 
 ## Conclusion
 
